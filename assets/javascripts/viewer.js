@@ -1,11 +1,11 @@
 (function () {
   // TODO edit
-  const baseUrl = '/scannedImgViewer';
+  const baseUrl = '/1926GinhangTaigiHoeoe';
   const dataFolderPath = '/chuliau';
-  const dataNamePrefix = '/TJTST1_';
-  const dataNameNumberCount = 3;
+  const dataNamePrefix = '/1926GinhangTaigiHoeoe_Page_';
+  const dataNameNumberCount = 2;
   const dataNameSuffix = '.jpg';
-  const lastPageNumber = 12;
+  const lastPageNumber = 76;
 
   let imgSources = [];
   const imgSourcesMin = 1;
